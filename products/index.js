@@ -5,7 +5,7 @@ app.use(express.json()); // Added parentheses after express.json
 
 app.use('/', (req, res, next) => {
     console.log("Api is hitting");
-    return res.status(200).json({ "msg": "Hello form product" }); 
+    return res.status(200).json({ "msg": "Hello form product" });
 });
 
 app.listen(8002, () => {
