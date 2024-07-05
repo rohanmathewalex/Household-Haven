@@ -1,6 +1,6 @@
 # Household Haven - Microservices Restructure
 
-![Household Haven Logo] 
+ 
 
 Household Haven is an online household products order application that has undergone a transformation from a monolithic Node.js application to a microservices architecture. This restructuring aims to enhance scalability, flexibility, and maintainability by breaking down the application into smaller, independent services.
 
@@ -10,7 +10,7 @@ Household Haven is an online household products order application that has under
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Contributing](#contributing) 
 - [License](#license)
 
 ## Functional Requirements
